@@ -1,0 +1,9 @@
+include_syllable_counts	1,2,3,4
+exclude_syllable_counts	3
+include_cards	asaborakea,asaborakeu
+exclude_cards	mu,fu,se
+include_syllable_beginnings	kimigatame
+exclude_syllable_beginnings	mo
+poems_dir	poems_mp4
+wait_for_user_input	filepath_to_poems_directory_goes_here
+endless	False

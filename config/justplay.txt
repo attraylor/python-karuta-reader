@@ -1,0 +1,2 @@
+wait_for_user_input	True
+poems_dir	filepath_to_poems_directory_goes_here

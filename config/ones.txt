@@ -1,0 +1,4 @@
+include_syllable_counts	1
+poems_dir	filepath_to_poems_directory_goes_here
+wait_for_user_input	False
+endless	True
